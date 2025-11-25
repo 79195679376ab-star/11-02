@@ -70,17 +70,13 @@
 ### Задание 2 Memcached Установите и запустите memcached.
 
 Приведите скриншот systemctl status memcached, на котором будет видно, что memcached запущен.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c16c5d0f-ff5c-4172-b582-0e45d0ba8f55" />
 
 
 
 
 
-`При необходимости прикрепитe сюда скриншоты
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dbf1a10-9dd8-414e-a4f5-d4da6b0a4ec4" />
-" />)`
 
-
----
 
 ### Задание 3
 
