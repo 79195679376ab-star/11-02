@@ -76,7 +76,8 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![сКРИНШОТ_1](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/712f810b-d90a-4e32-a54c-e8fc1aad8f05" />)`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dbf1a10-9dd8-414e-a4f5-d4da6b0a4ec4" />
+" />)`
 
 
 ---
